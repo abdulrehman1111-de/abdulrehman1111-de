@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on<br><br>MERN stack projects + Topic Ledger weekly builds<br>👯 I'm looking to collaborate on<br><br>MERN projects with other CS students<br>🤝 I'm looking for help with<br><br>Real world backend and deployment practices<br>🌱 I'm currently learning<br><br>Node.js, Express, MongoDB, React<br>💬 Ask me about<br><br>Networking, MERN stack, Computer Science<br>⚡ Fun fact<br><br>Class Rep for 70+ students and still ship code on time
+🔭 I'm currently working on<br>MERN stack projects + Topic Ledger weekly builds<br>👯 I'm looking to collaborate on<br>MERN projects with other CS students<br>🤝 I'm looking for help with<br>Real world backend and deployment practices<br>🌱 I'm currently learning<br>Node.js, Express, MongoDB, React<br>💬 Ask me about<br>Networking, MERN stack, Computer Science<br>⚡ Fun fact<br>Class Rep for 70+ students and still ship code on time
 
 
 ## 🌐 Socials:
